@@ -7,6 +7,8 @@
 > **Estudio divulgativo** · Autor: Óscar Ramírez Martín · Noviembre 2026
 > Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
 
+> 📄 **Estudio en PDF:** [Estudio_Deon_Dreyer_Boesmansgat.pdf](Estudio_Deon_Dreyer_Boesmansgat.pdf) (17 páginas, para leer o imprimir).
+
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de dos personas, un chico de 20 años y un piloto de 50, y el duelo de sus familias. No enlaza ni reproduce la grabación de la muerte de Dave Shaw y no incluye fotografías de los cuerpos. El objetivo es entender **por qué** ocurrió, para que no vuelva a ocurrir.
 
 ---
