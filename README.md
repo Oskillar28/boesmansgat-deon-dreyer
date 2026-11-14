@@ -193,14 +193,14 @@ Fue un «pequeño operativo militar», en palabras del coordinador técnico. Hub
 ```mermaid
 timeline
     title 8 de enero de 2005
-    06:15 : Los buceadores entran en el agua (18 °C)
-    ~06:35 : Shaw llega al cuerpo, a ~270 m
+    6.15 h : Los buceadores entran en el agua (18 °C)
+    Hacia 6.35 h : Shaw llega al cuerpo, a ~270 m
            : El cuerpo no está esquelético; flota y se mueve de forma inesperada
            : El esfuerzo dispara su respiración
-    ~6 min de fondo : Shaw aborta, como estaba previsto
+    Minuto 6 en el fondo : Shaw aborta, como estaba previsto
                     : Al subir, se enreda en el cabo que él mismo ató al cuerpo en 2004
-    ~22 min de inmersión : Deja de respirar mientras intenta liberarse
-    ~06:45 : Shaw no llega a la cita con Shirley en 220 m
+    Minuto 22 de inmersión : Deja de respirar mientras intenta liberarse
+    Hacia 6.45 h : Shaw no llega a la cita con Shirley en 220 m
            : Shirley baja a buscarlo y sufre un accidente grave
     12 de enero : Al recoger cabos, los dos cuerpos suben enredados a ~20–25 m
                 : Se recupera la cámara de casco de Shaw

@@ -193,14 +193,14 @@ The technical coordinator called it a "small military operation". There was a dr
 ```mermaid
 timeline
     title 8 January 2005
-    06:15 : The divers enter the water (18 °C)
-    ~06:35 : Shaw reaches the body at ~270 m
+    6.15 am : The divers enter the water (18 °C)
+    About 6.35 am : Shaw reaches the body at ~270 m
            : The body is not skeletal; it is buoyant and moves unexpectedly
            : The effort drives up his breathing
-    ~6 min on the bottom : Shaw aborts, as planned
+    Minute 6 on the bottom : Shaw aborts, as planned
                          : On the way up he gets tangled in the line he tied to the body in 2004
-    ~22 min into the dive : He stops breathing while trying to free himself
-    ~06:45 : Shaw fails to meet Shirley at 220 m
+    Minute 22 of the dive : He stops breathing while trying to free himself
+    About 6.45 am : Shaw fails to meet Shirley at 220 m
            : Shirley descends to look for him and suffers a serious accident
     12 January : As the lines are recovered, both bodies rise, entangled, to ~20–25 m
                : Shaw's helmet camera is recovered
