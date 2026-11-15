@@ -11,6 +11,9 @@
 
 > ⚠️ **A note on respect.** This study is about the real deaths of two people, a 20-year-old and a 50-year-old pilot, and their families' grief. It does not link to or reproduce the footage of Dave Shaw's death and includes no photographs of the bodies. The aim is to understand **why** it happened, so that it does not happen again.
 
+> 📚 **Series of studies on diving accidents** by the same author:
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · **Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+
 ---
 
 ## 📑 Contents
@@ -98,6 +101,7 @@ flowchart TB
 | 1977 | Mike Rathbourne | — | First known exploration |
 | 1988 | Nuno Gomes | 123 m | African record |
 | 1993 | **Eben Leyden** | — | First death: blacked out at around 60 m |
+| Aug 1993 | **Sheck Exley** (USA) | **263 m** | **First to touch the bottom**, on the chamber's slope. HPNS from ~210 m (see [§2.3](#23-sheck-exley-the-first-to-reach-the-bottom-1993-and-his-death-at-zacatón-1994)) |
 | 1994 | Nuno Gomes | 230 and 252 m | With decompression problems |
 | 1994 | **Deon Dreyer** | — | Dies on the ascent at ~50 m |
 | 23/08/1996 | Nuno Gomes | **282.6 m** | World cave-diving record (Guinness). 12 h 15 min, 15 min descent |
@@ -106,6 +110,33 @@ flowchart TB
 | 28/10/2004 | **Dave Shaw** | ~270 m | Rebreather records; finds Deon |
 | 08/01/2005 | **Dave Shaw** | — | Dies trying to recover Deon |
 | 2022 | Karen van den Oever | 246.65 m | New women's open-circuit record |
+
+### 2.3 Sheck Exley: the first to reach the bottom (1993) and his death at Zacatón (1994)
+
+Before Nuno Gomes and Dave Shaw, the diver who opened the way at Boesmansgat was **Sheck Exley** (1949–1994), a Florida maths teacher, cave-diving pioneer and author of *Basic Cave Diving: A Blueprint for Survival*, the manual that spread rules such as the rule of thirds.
+
+| Date | What happened |
+|---|---|
+| **August 1993** | Invited by Charles Maxwell, with Nuno Gomes on the support team, he dives Boesmansgat for about **7.5 hours** and touches the bottom at **263 m** (863 ft) on the chamber's sloping floor: the first person to do so. From about 210 m he suffers **high-pressure nervous syndrome (HPNS)**: distorted vision, itching and stinging all over his body around 224 m, then increasingly strong tremors. The symptoms disappear on the way up, by about 102 m. During that expedition Gomes runs a sonar scan showing the cave is far larger than believed |
+| **6 April 1994** | With **Jim Bowden** he tries to go beyond **300 m** (1,000 ft) in the **Zacatón** cenote (Tamaulipas, Mexico), each on his own line a few metres apart. Bowden finds he has breathed far more gas than planned and turns at **282 m** (925 ft): the world record at the time. Exley does not come back |
+| **9 April 1994** | When the line with the unused decompression cylinders is hauled up, Exley's body comes up **wrapped in the line**, around his arms and his cylinder valves. His wrist computer read **276 m** (906 ft) |
+| **December 1994** | Eight months later Deon Dreyer dies at Boesmansgat ([§4](#4-17-december-1994-deons-death)) |
+
+The cause of his death **could not be determined**. The team that analysed it (including Bowden and Ann Kristovich) pointed to the stress of HPNS made worse by nitrogen narcosis at that depth.
+
+> 🔗 **Why it matters for this case:** Bowden and other experts believe Exley wrapped the line around himself on purpose so his body could be recovered **without anyone having to go down for it** (hypothesis, confidence 0.5). Eleven years later Dave Shaw died doing exactly that: going down to ~270 m to recover a body.
+
+> 🧠 **Reasoning:** Exley did more than anyone to spread rules like the rule of thirds, and he still died. It is the same lesson as Plura: at those depths, pressure, helium and decompression leave a risk that **no rule removes**. Rules widen the margin; they do not guarantee it.
+
+**Videos about Sheck Exley**
+
+| Video | Channel · year · language | What it adds |
+|---|---|---|
+| 🎬 [*The Legend Who Chose to Die at 900 Feet (Sheck Exley)*](https://www.youtube.com/watch?v=KtPZujNwOl8) | Waterline Stories · 2025 · English · 25 min | Also covers his 1993 dive **at Boesmansgat** and the HPNS symptoms |
+| 🎬 [*La última inmersión de la leyenda Sheck Exley*](https://www.youtube.com/watch?v=XznOAbeYGC4) | Aterrador y Fascinante · 2024 · Spanish · 31 min | The day at Zacatón: descent plan, cylinders, the search and the recovery |
+| 🎬 [*Sheck Exley: su último descenso a 270 metros*](https://www.youtube.com/watch?v=ZYQts00VPBM) | Archivo Subterráneo · 2026 · Spanish · 26 min | Explains the rule of thirds and why it stops being enough at extreme depth |
+
+> ⚠️ **Video figures that do not match the written sources:** one says Bowden began his ascent at 281 m (sources say 282 m) and another rounds Exley's depth to 270 m (his computer read 276 m). This study uses the figures from the written sources.
 
 ---
 
@@ -413,6 +444,8 @@ flowchart LR
 | Year of Deon's accident | 1994 (almost all) | 1995 (Gadling) | **1994** |
 | Who Deon was diving with | Nuno Gomes's team / SACDA | "with his father" (*Mail & Guardian*) | **With the team**; no other source confirms his father |
 | Cause of Deon's death | CO₂ (*Outside*) | Oxygen toxicity (blogs) | **CO₂**, more consistent with 50 m; unconfirmed |
+| Exley's depth at Zacatón | 276 m, from his computer (Wikipedia, *Valdosta Daily Times*) | 270 m (Archivo Subterráneo video) | **276 m**: the computer reading |
+| Mary Ellen Eckhoff's relation to Exley (support team) | Wife (videos, Northwestern) | Ex-wife (*LADbible*) | **Unconfirmed** |
 
 ---
 
@@ -420,6 +453,7 @@ flowchart LR
 
 | Term | Meaning |
 |---|---|
+| **HPNS** (high-pressure nervous syndrome) | Tremors, visual disturbances and dizziness that appear below ~150 m when breathing helium and descending fast. It goes away on ascent |
 | **Adipocere / saponification** | Transformation of body fat into a waxy substance that preserves the body in cold, oxygen-poor water |
 | **Blackout** | Loss of consciousness underwater, often without warning |
 | **Dynamic airway compression** | The airways narrow when forcefully exhaling a dense gas; air does not come out faster however hard you push |
@@ -491,6 +525,13 @@ flowchart LR
 **The site and the records**
 
 - Wikipedia (en). *Boesmansgat*, *Deon Dreyer*, *Dave Shaw*, *Nuno Gomes (diver)*.
+- Wikipedia (en). *Sheck Exley*. https://en.wikipedia.org/wiki/Sheck_Exley
+- Nuno Gomes. *Boesmansgat* (Exley's 1993 dive and HPNS symptoms). https://nunogomes.co.za/page-8.html
+- Gilliam, B. (2013). *Zacaton: The Tragic Death of Sheck Exley*. **Undercurrent**. https://www.undercurrent.org/blog/2013/11/15/zacaton-the-tragic-death-of-sheck-exley/
+- *Eulogy for an Explorer* (Northwestern University). https://sites.northwestern.edu/monroyrios/resources/sheck_exley
+- **Valdosta Daily Times**. *Remembering Suwannee: Exley dies attempting world record dive*. https://valdostadailytimes.com/?p=510594
+- aquaCORPS / TDI. *Jim Bowden*. https://www.tdisdi.com/aquacorps/jim-bowden/
+- YouTube videos listed in [§2.3](#23-sheck-exley-the-first-to-reach-the-bottom-1993-and-his-death-at-zacatón-1994).
 - GUE. *Out of Africa*. https://www.gue.com/out-africa
 - Guinness World Records. *Deepest scuba dive in a fresh-water cave*. https://www.guinnessworldrecords.com/world-records/67817-deepest-scuba-dive-in-a-fresh-water-cave
 - Nuno Gomes. *A brief history of deep technical diving*. https://nunogomes.co.za/history.htm
