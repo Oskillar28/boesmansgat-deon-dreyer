@@ -7,7 +7,7 @@
 > **Popular-science study** · Author: Óscar Ramírez Martín · November 2026
 > Based on cross-checked public sources and my own calculations.
 
-> 📄 **PDF version:** [Deon_Dreyer_Boesmansgat_Study.pdf](Deon_Dreyer_Boesmansgat_Study.pdf) (17 pages, for reading or printing).
+> 📄 **PDF version:** [Deon_Dreyer_Boesmansgat_Study.pdf](Deon_Dreyer_Boesmansgat_Study.pdf) (14 pages, for reading or printing; includes the Sheck Exley section).
 
 > ⚠️ **A note on respect.** This study is about the real deaths of two people, a 20-year-old and a 50-year-old pilot, and their families' grief. It does not link to or reproduce the footage of Dave Shaw's death and includes no photographs of the bodies. The aim is to understand **why** it happened, so that it does not happen again.
 
