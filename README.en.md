@@ -12,7 +12,7 @@
 > ⚠️ **A note on respect.** This study is about the real deaths of two people, a 20-year-old and a 50-year-old pilot, and their families' grief. It does not link to or reproduce the footage of Dave Shaw's death and includes no photographs of the bodies. The aim is to understand **why** it happened, so that it does not happen again.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · **Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · **Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)** (this study) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 
 ---
 
@@ -119,7 +119,7 @@ Before Nuno Gomes and Dave Shaw, the diver who opened the way at Boesmansgat was
 |---|---|
 | **August 1993** | Invited by Charles Maxwell, with Nuno Gomes on the support team, he dives Boesmansgat for about **7.5 hours** and touches the bottom at **263 m** (863 ft) on the chamber's sloping floor: the first person to do so. From about 210 m he suffers **high-pressure nervous syndrome (HPNS)**: distorted vision, itching and stinging all over his body around 224 m, then increasingly strong tremors. The symptoms disappear on the way up, by about 102 m. During that expedition Gomes runs a sonar scan showing the cave is far larger than believed |
 | **6 April 1994** | With **Jim Bowden** he tries to go beyond **300 m** (1,000 ft) in the **Zacatón** cenote (Tamaulipas, Mexico), each on his own line a few metres apart. Bowden finds he has breathed far more gas than planned and turns at **282 m** (925 ft): the world record at the time. Exley does not come back |
-| **9 April 1994** | When the line with the unused decompression cylinders is hauled up, Exley's body comes up **wrapped in the line**, around his arms and his cylinder valves. His wrist computer read **276 m** (906 ft) |
+| **8 or 9 April 1994** | Two or three days later (sources disagree), when the line with the unused decompression cylinders is hauled up, Exley's body comes up **wrapped in the line**, around his arms and his cylinder valves. He had reached between **268 and 276 m** (879–906 ft): the 1994 medical analysis gives 268 m and other sources 276 m |
 | **December 1994** | Eight months later Deon Dreyer dies at Boesmansgat ([§4](#4-17-december-1994-deons-death)) |
 
 The cause of his death **could not be determined**. The team that analysed it (including Bowden and Ann Kristovich) pointed to the stress of HPNS made worse by nitrogen narcosis at that depth.
@@ -136,7 +136,7 @@ The cause of his death **could not be determined**. The team that analysed it (i
 | 🎬 [*La última inmersión de la leyenda Sheck Exley*](https://www.youtube.com/watch?v=XznOAbeYGC4) | Aterrador y Fascinante · 2024 · Spanish · 31 min | The day at Zacatón: descent plan, cylinders, the search and the recovery |
 | 🎬 [*Sheck Exley: su último descenso a 270 metros*](https://www.youtube.com/watch?v=ZYQts00VPBM) | Archivo Subterráneo · 2026 · Spanish · 26 min | Explains the rule of thirds and why it stops being enough at extreme depth |
 
-> ⚠️ **Video figures that do not match the written sources:** one says Bowden began his ascent at 281 m (sources say 282 m) and another rounds Exley's depth to 270 m (his computer read 276 m). This study uses the figures from the written sources.
+> ⚠️ **Video figures that do not match the written sources:** one says Bowden began his ascent at 281 m (sources say 282 m) and another gives 270 m for Exley (written sources give between 268 and 276 m). This study uses the figures from the written sources.
 
 ---
 
@@ -444,7 +444,8 @@ flowchart LR
 | Year of Deon's accident | 1994 (almost all) | 1995 (Gadling) | **1994** |
 | Who Deon was diving with | Nuno Gomes's team / SACDA | "with his father" (*Mail & Guardian*) | **With the team**; no other source confirms his father |
 | Cause of Deon's death | CO₂ (*Outside*) | Oxygen toxicity (blogs) | **CO₂**, more consistent with 50 m; unconfirmed |
-| Exley's depth at Zacatón | 276 m, from his computer (Wikipedia, *Valdosta Daily Times*) | 270 m (Archivo Subterráneo video) | **276 m**: the computer reading |
+| Exley's depth at Zacatón | 276 m / 906 ft (Wikipedia, *Valdosta Daily Times*, Undercurrent) | 268 m / 879 ft (medical analysis in *Pressure*, UHMS, 1994) | **Between 268 and 276 m**: cannot be resolved. More detail in the [Zacatón study](https://github.com/Oskillar28/zacaton-cenote-mexico) |
+| Day Exley's body was found | 8 April, two days later (*Pressure*) | 9 April, three days later (Undercurrent) | **8 or 9 April 1994** |
 | Mary Ellen Eckhoff's relation to Exley (support team) | Wife (videos, Northwestern) | Ex-wife (*LADbible*) | **Unconfirmed** |
 
 ---
